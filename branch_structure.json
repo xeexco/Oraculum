@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dev",
+    "fix/issue-343-paystack-signed-in-email",
+    "made-some-fixes",
+    "main",
+    "origin",
+    "versionTwo"
+  ],
+  "parent": {
+    "dev": "main",
+    "fix/issue-343-paystack-signed-in-email": "main",
+    "made-some-fixes": "main",
+    "main": null,
+    "origin": "main",
+    "versionTwo": "main"
+  },
+  "order": [
+    "main",
+    "dev",
+    "fix/issue-343-paystack-signed-in-email",
+    "made-some-fixes",
+    "origin",
+    "versionTwo"
+  ]
+}
